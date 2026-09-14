@@ -12,9 +12,7 @@ concreti. Laureato in **Informatica**, lavoro tra **codice e marketing digitale 
 
 ## 🧑‍💻 In breve
 
-- 🎓 **Laurea in Informatica** — Università di Catania
 - 📅 **Oltre 9 anni** tra sviluppo e marketing digitale
-- 💼 **Developer & Digital Advertising Specialist** @ ReStore
 - 🎨 **UX/UI**, performance e Web Vitals
 - 📈 **Google Ads**, **Meta Ads**, SEO/SEM, GA4 & GTM
 - 🤖 **AI** — integro tool di AI generativa nei workflow
