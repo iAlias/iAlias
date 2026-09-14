@@ -8,16 +8,6 @@ digitale**: sviluppo, app, advertising e AI.
 
 ---
 
-## 🧑‍💻 In breve
-
-- 📅 **Dal 2013** — sviluppo e marketing digitale, senza interruzioni
-- 🎨 **UX/UI**, performance e Web Vitals
-- 📈 **Google Ads**, **Meta Ads**, SEO/SEM, GA4 & GTM
-- 🤖 **AI** — integro tool di AI generativa nei workflow
-- 🏠 **Domotica** — ho automatizzato tutta la casa
-
----
-
 ## 💼 Le mie anime
 
 **💻 01 · Developer**
