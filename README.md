@@ -1,37 +1,49 @@
 # Ciao, sono Antonio 👋
 
-### Senior Frontend Developer · E-commerce & UX/UI
+### Senior Frontend Developer · Web, App & Advertising
 
-Da **9 anni** progetto e sviluppo **e-commerce di spesa online**. Metto insieme codice,
-**UX/UI** e **advertising** per far funzionare davvero un prodotto: dal frontend che
-l'utente tocca, al funnel che lo porta a comprare.
+Laureato in **Informatica**, sviluppo **siti e applicazioni dal 2013**. Unisco **codice**,
+**UX/UI** e **advertising** per costruire prodotti che funzionano davvero: dall'interfaccia
+che l'utente tocca, al funnel che lo porta a convertirsi.
 
-Mi piace **creare cose che migliorano la vita delle persone** — che sia un checkout che
-non fa perdere tempo, o una casa che si gestisce da sola.
+Ho una convinzione semplice: **la tecnologia deve migliorare la vita delle persone**.
+
+---
+
+## 🧑‍💻 In breve
+
+- 🎓 **Laurea in Informatica**
+- 📅 **Dal 2013** nello sviluppo di siti e applicazioni
+- 🛒 **Senior Frontend Developer**, con una specializzazione forte sull'**e-commerce**
+- 🎨 **UX/UI** — interfacce usabili, accessibili e curate
+- 📈 **Advertising** — Google Ads, Meta Ads e programmatic
+- 🏠 **Domotica** — ho automatizzato tutta la casa
 
 ---
 
 ## 💼 Di cosa mi occupo
 
-**🛒 Frontend & E-commerce**
-Nove anni dentro la spesa online: cataloghi enormi, carrelli complessi, flussi di acquisto
-che devono essere veloci, chiari e a prova di errore. Il frontend non è una vetrina, è il
-punto in cui la conversione si vince o si perde.
+**Frontend & applicazioni web**
+Progetto e sviluppo interfacce per prodotti anche complessi, con attenzione alle prestazioni,
+alla qualità del codice e all'esperienza reale di chi le usa.
 
-**🎨 UX & UI**
-Progetto interfacce partendo dalle persone: architettura dell'informazione, accessibilità,
-gerarchie visive, micro-interazioni. "Bello" e "usabile" non sono in alternativa: sono la
-stessa cosa fatta bene.
+**E-commerce**
+Anni di esperienza su e-commerce, inclusa la spesa online: cataloghi enormi, carrelli
+articolati e flussi d'acquisto che devono essere veloci, chiari e a prova di errore.
+Il frontend non è una vetrina: è il punto in cui la conversione si vince o si perde.
 
-**📈 Advertising & Growth**
+**UX & UI**
+Parto sempre dalle persone: architettura dell'informazione, accessibilità, gerarchie visive,
+micro-interazioni. "Bello" e "usabile" non sono in alternativa — sono la stessa cosa fatta bene.
+
+**Advertising & Growth**
 Gestisco campagne su **Google Ads** e **Meta Ads**, più **programmatic advertising**.
-Collego il prodotto ai numeri — acquisizione, conversione, misurazione — perché un sito
-bello che non vende è un hobby, non un progetto.
+Collego il prodotto ai numeri — acquisizione, conversione, misurazione — perché un sito che
+non vende è un hobby, non un progetto.
 
-**🏠 Automazione & Domotica**
-Ho **domotizzato tutta la casa**. È il mio laboratorio: sensori, integrazioni, automazioni
-che tolgono attrito alla vita quotidiana. La tecnologia mi appassiona prima di essere il
-mio lavoro.
+**Automazione & Domotica**
+Ho **domotizzato tutta la casa**. È il mio laboratorio: sensori, integrazioni e automazioni
+che tolgono attrito alla vita quotidiana. La passione per la tecnologia viene prima del lavoro.
 
 ---
 
@@ -39,7 +51,7 @@ mio lavoro.
 
 Codice, design e dati con lo stesso obiettivo: **rendere le cose più semplici per chi le usa**.
 
-Che sia un utente che compra la spesa in tre tap, o una casa che accende le luci da sola,
+Che sia un utente che completa un acquisto in tre tap, o una casa che accende le luci da sola,
 il criterio non cambia: deve migliorare la giornata di qualcuno.
 
 ---
@@ -74,4 +86,4 @@ il criterio non cambia: deve migliorare la giornata di qualcuno.
 
 ---
 
-<sub>🇮🇹 Italia · Frontend, UX/UI e advertising per l'e-commerce · Sempre a costruire qualcosa.</sub>
+<sub>🇮🇹 Italia · Frontend, UX/UI e advertising · Sempre a costruire qualcosa che migliori la vita delle persone.</sub>
