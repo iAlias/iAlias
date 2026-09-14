@@ -3,8 +3,8 @@
 ### Developer, Advertising & AI
 
 Sviluppo **soluzioni digitali** dove l'empatia per l'utente incontra codice pulito e dati
-concreti. Laureato in **Informatica**, lavoro tra **codice e marketing digitale da oltre
-9 anni**: sviluppo, app, advertising e AI.
+concreti. Laureato in **Informatica** nel 2013, da allora lavoro tra **codice e marketing
+digitale**: sviluppo, app, advertising e AI.
 
 🌐 **[antoninodistefano.it](https://antoninodistefano.it/)**
 
@@ -12,7 +12,7 @@ concreti. Laureato in **Informatica**, lavoro tra **codice e marketing digitale 
 
 ## 🧑‍💻 In breve
 
-- 📅 **Oltre 9 anni** tra sviluppo e marketing digitale
+- 📅 **Dal 2013** — sviluppo e marketing digitale, senza interruzioni
 - 🎨 **UX/UI**, performance e Web Vitals
 - 📈 **Google Ads**, **Meta Ads**, SEO/SEM, GA4 & GTM
 - 🤖 **AI** — integro tool di AI generativa nei workflow
