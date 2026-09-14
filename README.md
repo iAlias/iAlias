@@ -1,55 +1,45 @@
-# Ciao, sono Antonio 👋
+# Ciao, sono Antonino 👋
 
 ### Developer, Advertising & AI
 
-Laureato in **Informatica**, sviluppo **siti e applicazioni dal 2013**. Unisco **codice**,
-**UX/UI**, **AI** e **advertising** per costruire prodotti che funzionano davvero:
-dall'interfaccia che l'utente tocca, al funnel che lo porta a convertirsi.
+Sviluppo **soluzioni digitali** dove l'empatia per l'utente incontra codice pulito e dati
+concreti. Laureato in **Informatica**, lavoro tra **codice e marketing digitale da oltre
+9 anni**: frontend, app, advertising e AI.
 
-Ho una convinzione semplice: **la tecnologia deve migliorare la vita delle persone**.
+🌐 **[antoninodistefano.it](https://antoninodistefano.it/)**
 
 ---
 
 ## 🧑‍💻 In breve
 
-- 🎓 **Laurea in Informatica**
-- 📅 **Dal 2013** nello sviluppo di siti e applicazioni
-- 🛒 **Senior Frontend Developer**, con una specializzazione forte sull'**e-commerce**
-- 🎨 **UX/UI** — interfacce usabili, accessibili e curate
-- 📈 **Advertising** — Google Ads, Meta Ads e programmatic
-- 🤖 **AI** — uso quotidiano e integrazione in software, siti e processi
+- 🎓 **Laurea in Informatica** — Università di Catania
+- 📅 **Oltre 9 anni** tra sviluppo e marketing digitale
+- 💼 **Frontend Developer & Digital Advertising Specialist** @ ReStore
+- 🎨 **UX/UI**, performance e Web Vitals
+- 📈 **Google Ads**, **Meta Ads**, SEO/SEM, GA4 & GTM
+- 🤖 **AI** — integro tool di AI generativa nei workflow
 - 🏠 **Domotica** — ho automatizzato tutta la casa
 
 ---
 
-## 💼 Di cosa mi occupo
+## 💼 Le mie anime
 
-**Frontend & applicazioni web**
-Progetto e sviluppo interfacce per prodotti anche complessi, con attenzione alle prestazioni,
-alla qualità del codice e all'esperienza reale di chi le usa.
+**💻 01 · Developer**
+Frontend engineer con focus su performance e UX. HTML5, CSS3, JavaScript, WordPress,
+e sviluppo di app Android e iOS.
 
-**E-commerce**
-Anni di esperienza su e-commerce, inclusa la spesa online: cataloghi enormi, carrelli
-articolati e flussi d'acquisto che devono essere veloci, chiari e a prova di errore.
-Il frontend non è una vetrina: è il punto in cui la conversione si vince o si perde.
+**🎯 02 · Digital Strategist**
+Costruisco funnel digitali che trasformano il traffico in clienti reali.
 
-**UX & UI**
-Parto sempre dalle persone: architettura dell'informazione, accessibilità, gerarchie visive,
-micro-interazioni. "Bello" e "usabile" non sono in alternativa — sono la stessa cosa fatta bene.
+**📣 03 · Advertising**
+Google Ads, Meta Ads, campagne SEO/SEM. Dati prima di tutto: il marketing senza misurazione
+è solo un'opinione.
 
-**Advertising & Growth**
-Gestisco campagne su **Google Ads** e **Meta Ads**, più **programmatic advertising**.
-Collego il prodotto ai numeri — acquisizione, conversione, misurazione — perché un sito che
-non vende è un hobby, non un progetto.
+**🤖 04 · AI Enthusiast**
+Integro tool di AI generativa nei workflow per moltiplicare la produttività. L'AI è parte
+del mio modo di lavorare, non una moda.
 
-**AI & Automazione**
-L'AI è parte del mio modo di lavorare, non una moda. Uso quotidianamente **Claude**,
-**Claude Code**, **ChatGPT**, **Perplexity** e **DeepSeek**, e la **integro dentro software
-e siti web** — assistenti, generazione di contenuti, analisi, workflow. Il mio approccio è
-sempre lo stesso: **automatizzare tutto ciò che si può automatizzare**, per lasciare tempo
-a ciò che richiede davvero una persona.
-
-**Automazione & Domotica**
+**🏠 05 · Automazione & Domotica**
 Ho **domotizzato tutta la casa**: sensori, integrazioni e automazioni che tolgono attrito
 alla vita quotidiana. È il mio laboratorio, e la prova che l'automazione mi appassiona
 prima ancora che fosse un lavoro.
@@ -87,6 +77,7 @@ di qualcuno.
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white)
@@ -96,10 +87,15 @@ di qualcuno.
 
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?logo=googleads&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0866FF?logo=meta&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-E37400?logo=googleanalytics&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/GA4-E37400?logo=googleanalytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/GTM-246FDB?logo=googletagmanager&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?logo=homeassistant&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ---
+
+## 📫 Dove trovarmi
+
+🌐 **[antoninodistefano.it](https://antoninodistefano.it/)** · 💻 **[github.com/iAlias](https://github.com/iAlias)**
 
 <sub>🇮🇹 Italia · Frontend, UX/UI, AI e advertising · Automatizzo tutto ciò che si può automatizzare.</sub>
