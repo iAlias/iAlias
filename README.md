@@ -1,6 +1,6 @@
 # Ciao, sono Antonio 👋
 
-### Senior Frontend Developer · Web, App, AI & Advertising
+### Developer, Advertising & AI
 
 Laureato in **Informatica**, sviluppo **siti e applicazioni dal 2013**. Unisco **codice**,
 **UX/UI**, **AI** e **advertising** per costruire prodotti che funzionano davvero:
