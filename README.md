@@ -11,7 +11,7 @@ digitale**: sviluppo, app, advertising e AI.
 ## 💼 Le mie anime
 
 **💻 01 · Developer**
-Developer con focus su performance e UX. HTML5, CSS3, JavaScript, WordPress,
+Developer con focus su performance e UX. HTML5, CSS3, JavaScript,
 e sviluppo di app Android e iOS.
 
 **🎯 02 · Digital Strategist**
