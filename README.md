@@ -4,7 +4,7 @@
 
 Sviluppo **soluzioni digitali** dove l'empatia per l'utente incontra codice pulito e dati
 concreti. Laureato in **Informatica**, lavoro tra **codice e marketing digitale da oltre
-9 anni**: frontend, app, advertising e AI.
+9 anni**: sviluppo, app, advertising e AI.
 
 🌐 **[antoninodistefano.it](https://antoninodistefano.it/)**
 
@@ -14,7 +14,7 @@ concreti. Laureato in **Informatica**, lavoro tra **codice e marketing digitale 
 
 - 🎓 **Laurea in Informatica** — Università di Catania
 - 📅 **Oltre 9 anni** tra sviluppo e marketing digitale
-- 💼 **Frontend Developer & Digital Advertising Specialist** @ ReStore
+- 💼 **Developer & Digital Advertising Specialist** @ ReStore
 - 🎨 **UX/UI**, performance e Web Vitals
 - 📈 **Google Ads**, **Meta Ads**, SEO/SEM, GA4 & GTM
 - 🤖 **AI** — integro tool di AI generativa nei workflow
@@ -25,7 +25,7 @@ concreti. Laureato in **Informatica**, lavoro tra **codice e marketing digitale 
 ## 💼 Le mie anime
 
 **💻 01 · Developer**
-Frontend engineer con focus su performance e UX. HTML5, CSS3, JavaScript, WordPress,
+Developer con focus su performance e UX. HTML5, CSS3, JavaScript, WordPress,
 e sviluppo di app Android e iOS.
 
 **🎯 02 · Digital Strategist**
@@ -98,4 +98,4 @@ di qualcuno.
 
 🌐 **[antoninodistefano.it](https://antoninodistefano.it/)** · 💻 **[github.com/iAlias](https://github.com/iAlias)**
 
-<sub>🇮🇹 Italia · Frontend, UX/UI, AI e advertising · Automatizzo tutto ciò che si può automatizzare.</sub>
+<sub>🇮🇹 Italia · Developer, UX/UI, AI e advertising · Automatizzo tutto ciò che si può automatizzare.</sub>
