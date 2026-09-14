@@ -1,50 +1,50 @@
-# Ciao, I'm Antonio 👋
+# Ciao, sono Antonio 👋
 
-I build **small, focused tools** around three themes:
+Costruisco **strumenti piccoli e mirati** attorno a tre temi:
 
-- 🌐 **Web compliance** — accessibility (WCAG / EN 301 549) and GDPR consent
-- 🏠 **Home Assistant for Italy** — Italian public data, packaged for real users
-- 🤖 **AI-assisted developer workflows** — lead generation, data scraping, LLM tooling
+- 🌐 **Conformità del web** — accessibilità (WCAG / EN 301 549) e consenso GDPR
+- 🏠 **Home Assistant per l'Italia** — dati pubblici italiani, confezionati per utenti reali
+- 🤖 **Strumenti per sviluppatori** — lead generation, raccolta dati, tooling per LLM
 
-I care about the difference between *opening* a project and *finishing* it: tests, CI,
-a README that explains itself, and something someone else can actually use.
+Mi interessa la differenza tra *aprire* un progetto e *finirlo*: test, CI, un README che si
+spiega da solo, e qualcosa che qualcun altro possa davvero usare.
 
 ---
 
-## 🎯 What I'm focusing on
+## 🎯 Su cosa sto lavorando
 
-**1. A web-compliance toolkit**
-Four tools for the same buyer — the web agency that has to ship a site "by the book":
-[`openconsent`](https://github.com/iAlias/openconsent) (GDPR Consent Mode v2),
-[`AccessiScan`](https://github.com/iAlias/AccessiScan) (accessibility audits with Playwright + axe-core),
-[`rs-cookie-scanner`](https://github.com/iAlias/rs-cookie-scanner) and
+**1. Un toolkit per la conformità del web**
+Quattro strumenti per lo stesso compratore — l'agenzia web che deve consegnare un sito "a norma":
+[`openconsent`](https://github.com/iAlias/openconsent) (consenso GDPR, Consent Mode v2),
+[`AccessiScan`](https://github.com/iAlias/AccessiScan) (audit di accessibilità con Playwright + axe-core),
+[`rs-cookie-scanner`](https://github.com/iAlias/rs-cookie-scanner) e
 [`MultiLighthouse`](https://github.com/iAlias/MultiLighthouse).
 
-**2. Home Assistant, made for Italy**
-[`allerte-italia`](https://github.com/iAlias/allerte-italia) brings Protezione Civile alerts,
-INGV earthquakes and MIMIT fuel prices into Home Assistant — data nobody packages for the
-Italian community.
+**2. Home Assistant, fatto per l'Italia**
+[`allerte-italia`](https://github.com/iAlias/allerte-italia) porta in Home Assistant le allerte
+della Protezione Civile, i terremoti INGV e i prezzi dei carburanti MIMIT — dati che nessuno
+impacchetta per la comunità italiana.
 
-**3. AI-assisted workflows**
-[`search-lead-google`](https://github.com/iAlias/search-lead-google) finds local businesses
-with weak websites, audits them and generates ready-to-send demo sites.
+**3. Strumenti per sviluppatori**
+[`search-lead-google`](https://github.com/iAlias/search-lead-google) trova attività locali con
+siti scadenti, le analizza e genera siti dimostrativi pronti da inviare.
 
 ---
 
-## 📌 Featured projects
+## 📌 Progetti in evidenza
 
-| Project | What it does | Stack |
+| Progetto | Cosa fa | Stack |
 | --- | --- | --- |
-| [**openconsent**](https://github.com/iAlias/openconsent) | GDPR-compliant Consent Management Platform (Consent Mode v2) · [live demo](https://ialias.github.io/openconsent/) | JS |
-| [**AccessiScan**](https://github.com/iAlias/AccessiScan) | Accessibility scanner: WCAG 2.1 A/AA mapped to EN 301 549 clauses | TypeScript · Playwright · axe-core |
-| [**search-lead-google**](https://github.com/iAlias/search-lead-google) | Finds local businesses with weak sites and generates demo websites | TypeScript · Next.js |
-| [**italian-llm**](https://github.com/iAlias/italian-llm) | Training pipeline and evaluation for Italian-language LLMs | Python |
-| [**Home-Assistant-TV-Guide**](https://github.com/iAlias/Home-Assistant-TV-Guide) | TV guide integration for Home Assistant | Python · HACS |
-| [**allerte-italia**](https://github.com/iAlias/allerte-italia) | Italian civil protection, INGV and fuel-price data for Home Assistant | Python · HACS |
+| [**openconsent**](https://github.com/iAlias/openconsent) | Consent Management Platform conforme al GDPR (Consent Mode v2) · [demo](https://ialias.github.io/openconsent/) | JS |
+| [**AccessiScan**](https://github.com/iAlias/AccessiScan) | Scanner di accessibilità: WCAG 2.1 A/AA mappati alle clausole EN 301 549 | TypeScript · Playwright · axe-core |
+| [**search-lead-google**](https://github.com/iAlias/search-lead-google) | Trova attività locali con siti deboli e genera siti dimostrativi | TypeScript · Next.js |
+| [**italian-llm**](https://github.com/iAlias/italian-llm) | Pipeline di addestramento e valutazione per LLM in italiano | Python |
+| [**Home-Assistant-TV-Guide**](https://github.com/iAlias/Home-Assistant-TV-Guide) | Integrazione guida TV per Home Assistant | Python · HACS |
+| [**allerte-italia**](https://github.com/iAlias/allerte-italia) | Dati Protezione Civile, INGV e prezzi carburanti per Home Assistant | Python · HACS |
 
 ---
 
-## 🛠️ Tools I work with
+## 🛠️ Strumenti che uso
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -60,4 +60,4 @@ with weak websites, audits them and generates ready-to-send demo sites.
 
 ---
 
-<sub>Based in Italy 🇮🇹 · Always building something.</sub>
+<sub>Base in Italia 🇮🇹 · Sempre a costruire qualcosa.</sub>
