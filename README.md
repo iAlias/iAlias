@@ -56,11 +56,11 @@ di qualcuno.
 
 | Progetto | Cosa fa |
 | --- | --- |
-| [**search-lead-google**](https://github.com/iAlias/SearchLeadGoogle) | Trova attività locali con siti deboli, li analizza e genera siti dimostrativi pronti da inviare |
-| [**openconsent**](https://github.com/iAlias/OpenConsent) | Consent Management Platform conforme al GDPR (Consent Mode v2) · [demo](https://ialias.github.io/OpenConsent/) |
+| [**SearchLeadGoogle**](https://github.com/iAlias/SearchLeadGoogle) | Trova attività locali con siti deboli, li analizza e genera siti dimostrativi pronti da inviare |
+| [**OpenConsent**](https://github.com/iAlias/OpenConsent) | Consent Management Platform conforme al GDPR (Consent Mode v2) · [demo](https://ialias.github.io/OpenConsent/) |
 | [**AccessiScan**](https://github.com/iAlias/AccessiScan) | Scanner di accessibilità: WCAG 2.1 A/AA mappati alle clausole EN 301 549 |
-| [**allerte-italia**](https://github.com/iAlias/AllerteItalia) | Dati Protezione Civile, INGV e prezzi carburanti dentro Home Assistant |
-| [**Home-Assistant-TV-Guide**](https://github.com/iAlias/HomeAssistantTVGuide) | Integrazione guida TV per Home Assistant |
+| [**AllerteItalia**](https://github.com/iAlias/AllerteItalia) | Dati Protezione Civile, INGV e prezzi carburanti dentro Home Assistant |
+| [**HomeAssistantTVGuide**](https://github.com/iAlias/HomeAssistantTVGuide) | Integrazione guida TV per Home Assistant |
 
 ---
 
