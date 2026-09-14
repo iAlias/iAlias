@@ -90,8 +90,4 @@ di qualcuno.
 
 ---
 
-## 📫 Dove trovarmi
-
-🌐 **[antoninodistefano.it](https://antoninodistefano.it/)** · 💻 **[github.com/iAlias](https://github.com/iAlias)**
-
 <sub>🇮🇹 Italia · Developer, UX/UI, AI e advertising · Automatizzo tutto ciò che si può automatizzare.</sub>
