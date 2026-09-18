@@ -1,60 +1,66 @@
-# Ciao, sono Antonino 👋
+# Hi, I'm Antonino 👋
 
-### Developer, Advertising & AI
+**Developer, Advertising & AI — where empathy for the user meets clean code and hard data.**
 
-Sviluppo **soluzioni digitali** dove l'empatia per l'utente incontra codice pulito e dati
-concreti. Laureato in **Informatica** nel 2013, da allora lavoro tra **codice e marketing
-digitale**: sviluppo, app, advertising e AI.
+[![Location](https://img.shields.io/badge/location-Italy-008C45?logo=googlemaps&logoColor=white)](#)
+[![Focus](https://img.shields.io/badge/focus-Dev%20%C2%B7%20Ads%20%C2%B7%20AI-D97757?logo=anthropic&logoColor=white)](#)
+[![Since](https://img.shields.io/badge/computer%20science%20degree-2013-blue)](#)
+
+🇮🇹 [Leggi in italiano](README.it.md)
+
+I build **digital solutions** where empathy for the user meets clean code and real data. I
+graduated in **Computer Science** in 2013, and have since worked at the intersection of
+**software and digital marketing**: development, apps, advertising, and AI.
 
 ---
 
-## 💼 Le mie anime
+## 💼 The hats I wear
 
 **💻 01 · Developer**
-Developer con focus su performance e UX. HTML5, CSS3, JavaScript,
-e sviluppo di app Android e iOS.
+Focused on performance and UX. HTML5, CSS3, JavaScript, and Android/iOS app development.
 
 **🎯 02 · Digital Strategist**
-Costruisco funnel digitali che trasformano il traffico in clienti reali.
+I build digital funnels that turn traffic into real customers.
 
 **📣 03 · Advertising**
-Google Ads, Meta Ads, campagne SEO/SEM. Dati prima di tutto: il marketing senza misurazione
-è solo un'opinione.
+Google Ads, Meta Ads, SEO/SEM campaigns. Data comes first — marketing without measurement is
+just an opinion.
 
 **🤖 04 · AI Enthusiast**
-Integro tool di AI generativa nei workflow per moltiplicare la produttività. L'AI è parte
-del mio modo di lavorare, non una moda.
+I integrate generative AI tools into my workflow to multiply productivity. AI is part of how
+I work, not a trend I'm chasing.
 
-**🏠 05 · Automazione & Domotica**
-Ho **domotizzato tutta la casa**: sensori, integrazioni e automazioni che tolgono attrito
-alla vita quotidiana. È il mio laboratorio, e la prova che l'automazione mi appassiona
-prima ancora che fosse un lavoro.
-
----
-
-## 🧭 Il filo conduttore
-
-Codice, design, dati e AI con lo stesso obiettivo: **rendere le cose più semplici per chi le usa**.
-
-Che sia un utente che completa un acquisto in tre tap, una casa che accende le luci da sola,
-o un processo che si automatizza da sé, il criterio non cambia: deve migliorare la giornata
-di qualcuno.
+**🏠 05 · Home Automation**
+I've **fully automated my house**: sensors, integrations, and automations that remove friction
+from everyday life. It's my personal lab, and proof that automation was my passion long before
+it became my job.
 
 ---
 
-## 📌 Qualche progetto
+## 🧭 The common thread
 
-| Progetto | Cosa fa |
+Code, design, data, and AI, all pointed at the same goal: **make things simpler for the people
+who use them.**
+
+Whether it's a user completing a purchase in three taps, a house that turns its own lights on,
+or a process that automates itself, the bar doesn't change: it has to make someone's day a
+little better.
+
+---
+
+## 📌 A few projects
+
+| Project | What it does |
 | --- | --- |
-| [**SearchLeadGoogle**](https://github.com/iAlias/SearchLeadGoogle) | Trova attività locali con siti deboli, li analizza e genera siti dimostrativi pronti da inviare |
-| [**OpenConsent**](https://github.com/iAlias/OpenConsent) | Consent Management Platform conforme al GDPR (Consent Mode v2) · [demo](https://ialias.github.io/OpenConsent/) |
-| [**AccessiScan**](https://github.com/iAlias/AccessiScan) | Scanner di accessibilità: WCAG 2.1 A/AA mappati alle clausole EN 301 549 |
-| [**AllerteItalia**](https://github.com/iAlias/AllerteItalia) | Dati Protezione Civile, INGV e prezzi carburanti dentro Home Assistant |
-| [**HomeAssistantTVGuide**](https://github.com/iAlias/HomeAssistantTVGuide) | Integrazione guida TV per Home Assistant |
+| [**SearchLeadGoogle**](https://github.com/iAlias/SearchLeadGoogle) | Finds local businesses with weak websites, analyzes them, and generates ready-to-send demo sites |
+| [**OpenConsent**](https://github.com/iAlias/OpenConsent) | GDPR-compliant Consent Management Platform with Google Consent Mode v2 · [demo](https://ialias.github.io/OpenConsent/) |
+| [**AccessiScan**](https://github.com/iAlias/AccessiScan) | Accessibility scanner: WCAG 2.1 A/AA findings mapped to EN 301 549 clauses |
+| [**AllerteItalia**](https://github.com/iAlias/AllerteItalia) | Civil Protection, INGV, and fuel-price data inside Home Assistant |
+| [**HomeAssistantTVGuide**](https://github.com/iAlias/HomeAssistantTVGuide) | TV guide integration for Home Assistant |
 
 ---
 
-## 🛠️ Competenze
+## 🛠️ Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -80,4 +86,4 @@ di qualcuno.
 
 ---
 
-<sub>🇮🇹 Italia · Developer, UX/UI, AI e advertising · Automatizzo tutto ciò che si può automatizzare.</sub>
+<sub>🇮🇹 Italy · Developer, UX/UI, AI and advertising · I automate everything that can be automated.</sub>
